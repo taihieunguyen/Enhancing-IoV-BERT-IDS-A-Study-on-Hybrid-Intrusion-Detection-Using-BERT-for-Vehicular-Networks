@@ -20,15 +20,15 @@ The research evaluates various machine learning models, including a fine-tuned B
 - **Hybrid Ensemble**: Combines BERT with other models for improved precision and recall in anomaly detection.
 
 ## Repository Structure
-bash
-── Article/                 # Academic articles, literature reviews, or related publications
-├── Report/                  # Experiment reports, result analysis, and performance summaries
-├── Training Model/          # Main module for model development and training
-│   ├── Data/                # Dataset files or scripts for data loading
-│   ├── result/              # Output files: model evaluation results, logs, and metrics
-│   └── src/                 # Source code: data preprocessing, model training, and evaluation
-├── Architecture.png         # Diagram showing system or model architecture
-└── README.md                # Project overview and usage documentation
+
+**── Article/                 # Academic articles, literature reviews, or related publications
+**├── Report/                  # Experiment reports, result analysis, and performance summaries
+**├── Training Model/          # Main module for model development and training
+**│   ├── Data/                # Dataset files or scripts for data loading
+**│   ├── result/              # Output files: model evaluation results, logs, and metrics
+**│   └── src/                 # Source code: data preprocessing, model training, and evaluation
+**├── Architecture.png         # Diagram showing system or model architecture
+**└── README.md                # Project overview and usage documentation
 
 ## Prerequisites
 To run this project, install the following:
